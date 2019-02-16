@@ -56,8 +56,10 @@ Xcode [Download](https://developer.apple.com/xcode/) | [Documentation](https://d
 
 [Completed Project](https://github.com/membriux/Teach-iOS/tree/master/CompletedProjects/CompletedTableViewStarter)
 
-[Additional Links](https://guides.codepath.com/ios)
+### Additional Links
 
+* [Guides](https://guides.codepath.com/ios)
+* [Website](https://clubs.uci.edu/codepath)
 
 
 ## 4. Android Development Workshop
